@@ -91,3 +91,11 @@ The regional Discords linked in the sidebar are a great way to find opponents fo
 
 The higher your ping to the server or your opponent, the more frames of delay you'll have. Most players play on 3 frames or less. After playing online, you **must** restart the emulator before playing a different player or if a new player joins the lobby. Servers may sometimes go down and active servers may be found on the master server list.
 
+If you're having problems setting up netplay, ask in `#help` in the [Smash 64 Discord](https://discord.gg/ssb64).
+
+### Legacy Emulators & Guides
+
+- [Project64 KSE (Emulator)](https://github.com/smash64-dev/project64k-legacy/releases/latest/download/project64k-legacy.zip)
+- [Project64k-legacy (GitHub)](https://github.com/smash64-dev/project64k-legacy)
+- [Radiant Netplay Guide](https://docs.google.com/document/d/1jUqmsLqonkoCR_z7VBxyj6uCtpTnU6bL6oVfGEpKyZ8/view)
+- [Pizza Netplay Guide (Outdated)](https://docs.google.com/document/d/1asbuKPAhHUGWgbJtLg7RJI5Hl_yDTJBlrpEQkgkgvkg/view)
