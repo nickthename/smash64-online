@@ -6,7 +6,7 @@ hide:
   - prev
   - search
   - tabs
-latest: v2.0.0
+latest: v2.0.1
 official_site:
   color: red
   display: false
@@ -15,6 +15,18 @@ official_site:
 patcher_errors:
   mismatch: Mismatch. Use the vanilla ROM.
 patches:
+  v2.0.1:
+    name: Smash Remix 2.0.1
+    file: https://github.com/JSsixtyfour/smashremix/releases/download/2.0.1/smashremix2.0.1.zip
+    site: https://github.com/JSsixtyfour/smashremix/releases/tag/2.0.1
+    size: 16777216
+    patches:
+      - name: 'Smash Remix 2.0.1'
+        file: smashremix2.0.1/patches/smashremix2.0.1.xdelta
+        crc: 0xeb97929e
+      - name: 'Smash Remix 2.0.1 - PAL60'
+        file: smashremix2.0.1/patches/smashremix2.0.1-PAL60.xdelta
+        crc: 0xeb97929e
   v2.0.0:
     name: Smash Remix 2.0.0
     file: https://github.com/JSsixtyfour/smashremix/releases/download/2.0.0/smashremix2.0.0.zip
