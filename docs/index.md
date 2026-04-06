@@ -21,7 +21,7 @@ To play Smash 64 online, follow the steps below. To use an N64 controller, you'l
 
 ## 1. Download the RMG-K Emulator
 
-[Download](https://github.com/Jay-Day/RMG-K/releases/tag/v0.8.22){ .md-button .md-button--primary data-md-color-primary="green" data-md-color-accent="green" }
+[Download](https://github.com/Jay-Day/RMG-K/releases/latest){ .md-button .md-button--primary data-md-color-primary="green" data-md-color-accent="green" }
 [GitHub](https://github.com/Jay-Day/RMG-K){ .md-button data-md-color-primary="green" data-md-color-accent="green" }
 
 ## 2. Obtain the Smash Bros. ROM
