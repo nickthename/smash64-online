@@ -8,9 +8,6 @@ nav:
     - Kaillera Tools:
       - Server Status: server-status.md
       - P2P Setup: p2p-check.md
-    - Controller Setup:
-      - GameCube: gamecube.md
-      - Xbox: xbox.md
     - Discords:
       - North America: https://discord.gg/ssb64
       - Europe: https://discord.gg/YvbVHD7
